@@ -1,0 +1,32 @@
+{
+	"theme_color": "#2ca0aa",
+	"background_color": "#afdbde",
+	"display": "standalone",
+	"scope": "/",
+	"start_url": "/",
+	"name": "3 Good Things!",
+	"short_name": "3GT!",
+	"description": "このアプリは毎晩寝る前に3つ、今日良かったことを思い出す新習慣で考え方をポジティブに変えちゃおうという'three good things'メソッドのためのアプリです",
+	"icons": [
+		{
+			"src": "logo-whbg-192px.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "logo-whbg-256px.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "logo-whbg-384px.png",
+			"sizes": "384x384",
+			"type": "image/png"
+		},
+		{
+			"src": "logo-whbg.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
