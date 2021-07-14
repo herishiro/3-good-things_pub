@@ -1,0 +1,16 @@
+body {
+	/* mobile viewport bug fix */
+	/* min-height: -webkit-fill-available; */
+	min-height: calc(var(--vh, 1vh) * 100);
+	height: var(--bodyHeight);
+	margin: 0;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#__next {
+	height: 100%;
+}
